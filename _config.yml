@@ -1,1 +1,11 @@
+title: Pavan patil # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ DevOps Engineer
+  <br><br>
+  <a href="mailto:pavanpatil0744@gmail.com">pavanpatil0744@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/pavan-patil-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkJqEJSlJQQiIWgD6COu1tg%3D%3D">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/PATILpavan123">Gihub</a> 
 theme: jekyll-theme-minimal
