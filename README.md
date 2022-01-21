@@ -12,16 +12,6 @@ LINUX, AWS, DOCKER, KUBERNETES, JENKINS, MAVEN, ANSIBLE, GIT, GITHUB
 ## Experience
 
 ### **DEVOPS ENGINNER**
-### MIRO
-
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
-
-### **FRONTEND DEVELOPER**
-### Booking.com
-
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **DEVOPS ENGINNER**
 ### INTELLICONNECT-TECH PVT LTD
 
 Working on CICD using jenkins and deploying microservices application using docker and kubernetes
